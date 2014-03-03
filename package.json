@@ -1,0 +1,21 @@
+{
+  "author": "John E. Vincent",
+  "name": "hubot-dnsmadeeasy",
+  "version": "0.1.0",
+  "description": "Self-service DNS management and auditing for DNSMadeEasy with Hubot",
+  "homepage": "https://github.com/dcm-webops/hubot-dnsmadeeasy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dcm-webops/hubot-dnsmadeeasy"
+  },
+  "license": "Apache2",
+  "keywords": [
+    "hubot",
+    "dns",
+    "dnsmadeeasy"
+  ],
+  "dependencies": {
+    "underscore": ">= 1.6.0",
+    "clark": "= 0.0.6"
+  }
+}
